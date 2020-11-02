@@ -1,0 +1,13 @@
+Object: Apple_Pie
+
+Attributes:
+temperature (string): "Hot out of the oven!"
+calories (integer): 400
+ingredients (array): ["apples", "egg", "flour", "butter"]
+is_vegan (boolean): false
+
+Methods:
+add_flavor: calories = 700
+order_vegan: ingredients = ["apples", "flour"]. is_vegan = true
+over_bake" "Holy smokes it's on fire!!!"
+a_la_mode: "Ahh, now the temperature is just right.""
