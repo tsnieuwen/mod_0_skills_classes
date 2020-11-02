@@ -1,0 +1,14 @@
+Class: House
+
+Attributes:
+type_of_home (string)
+number_of_rooms (integer)
+home_value (integer)
+has_fireplace (boolean)
+
+Methods
+
+construction (increases number of rooms by 1. increases home_value 15000)
+remodel (changes has_fireplace to true, if false. increases home_value by 5000)
+natural_disaster (reduces home_value by 50%)
+paint_house (increase home_value by 500)
