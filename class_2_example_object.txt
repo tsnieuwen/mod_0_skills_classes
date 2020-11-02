@@ -1,0 +1,14 @@
+Class: House
+
+Attributes:
+type_of_home (string): "Victorian"
+number_of_rooms (integer): 6
+home_value (integer) 400000
+has_fireplace (boolean) false
+
+Methods
+
+construction: number_of_rooms = 1. home_value 401500
+remodel: has_fireplace = true. home_value by 406500)
+natural_disaster: home_value = 203250
+paint_house: home_value = 203750
